@@ -192,7 +192,7 @@ The Jira project contains work related to:
 
 ### Jira Summary Dashboard
 
-![Jira Summary Dashboard](01-Jira-Summary-Dashboard.png)
+![Jira Summary Dashboard](https://raw.githubusercontent.com/vahorahumerah/SauceDemo-QA-Testing/main/01-Jira-Summary-Dashboard.png)
 
 ### Jira Backlog
 
