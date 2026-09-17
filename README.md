@@ -196,9 +196,7 @@ The Jira project contains work related to:
 
 ### Jira Backlog
 
-![Jira Backlog](02-Jira-Backlog.png)
-
----
+![Jira Backlog](https://raw.githubusercontent.com/vahorahumerah/SauceDemo-QA-Testing/main/02-Jira-Backlog.png)
 
 # 🤖 Selenium Automation
 
@@ -247,11 +245,11 @@ The implemented Selenium automation scenarios were executed successfully.
 
 ### Postman Collection Runner
 
-![Postman API Runner](03-Postman-API-Runner.png)
+![Postman API Runner](https://raw.githubusercontent.com/vahorahumerah/SauceDemo-QA-Testing/main/03-Postman-API-Runner.png)
 
 ### Postman Test Results
 
-![Postman Test Results](04-Postman-Test-Results.png)
+![Postman Test Results](https://raw.githubusercontent.com/vahorahumerah/SauceDemo-QA-Testing/main/04-Postman-Test-Results.png)
 
 These screenshots provide evidence of API request execution and response validation.
 
@@ -379,8 +377,6 @@ This project demonstrates practical experience with a structured QA workflow usi
 
 ## Humerah Vahora
 
-**B.Tech Information Technology**  
-**Anand Agricultural University, Gujarat, India**
 
 🔗 [GitHub Profile](https://github.com/vahorahumerah)
 
